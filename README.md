@@ -9,4 +9,4 @@
 ## Daily report:
 
 - 技术开发群：每天下班前-发当天的daily report
-- cine-dailyreport：每周二，五更新最新这周的daily report
+- cine-dailyreport：每周二，五更新本周的daily report
